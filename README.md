@@ -1,6 +1,6 @@
-# Do Diffusion Models Know What They Don’t Know in Representation Space?
+# Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations
 
-This is the pytorch implementation for RDM, a practical method for OOD detection using diffusion models applied to image representations.
+This is the pytorch implementation for RDM, a practical method for OOD detection using likelihood estimated by diffusion models on image representations.
 
 <p align="center">
   <img src="figures/rdm.png" width="800">
