@@ -19,7 +19,7 @@ You can also use Anaconda
 
 `conda env create -f environment.yaml `
 
-to manage the enviroment.
+to manage the environment.
 
 
 ## DataSets
