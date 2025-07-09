@@ -1,6 +1,6 @@
 # Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations
 
-This is the pytorch implementation for RDM, a practical method for OOD detection using likelihood estimated by diffusion models on image representations.
+This is the pytorch implementation of our paper [[Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations]](https://arxiv.org/abs/2504.07793), a comprehensive investigation for OOD detection using likelihood estimated by diffusion models on image representations.
 
 <p align="center">
   <img src="figures/rdm.png" width="800">
@@ -84,3 +84,17 @@ or check `eval.sh`.
 ## Acknowledgement
 
 Part of the code is modified from [VIM](https://github.com/haoqiwang/vim), [RCG](https://github.com/LTH14/rcg) and [Score-Based Generative Modeling through Stochastic Differential Equations](https://github.com/yang-song/score_sde).
+
+## Reference
+
+```
+@inproceedings{ding2025revisiting,
+  title={Revisiting likelihood-based out-of-distribution detection by modeling representations},
+  author={Ding, Yifan and Aleksandraus, Arturas and Ahmadian, Amirhossein and Unger, Jonas and Lindsten, Fredrik and Eilertsen, Gabriel},
+  booktitle={Scandinavian Conference on Image Analysis},
+  pages={166--179},
+  year={2025},
+  organization={Springer}
+}
+
+```
