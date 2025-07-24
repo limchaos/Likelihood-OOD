@@ -1,6 +1,6 @@
 # Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations
 
-This is the pytorch implementation of our paper [[Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations]](https://arxiv.org/abs/2504.07793), a comprehensive investigation for OOD detection using likelihood estimated by diffusion models on image representations.
+This is the pytorch implementation of our paper [[Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations]](https://arxiv.org/abs/2504.07793), a comprehensive investigation for OOD detection using likelihood estimated by diffusion models on image representations. The pip package can be found [here](https://github.com/Arty-Facts/ood_detectors)!
 
 <p align="center">
   <img src="figures/rdm.png" width="800">
